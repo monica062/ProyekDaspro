@@ -1,8 +1,6 @@
 /*
-KELOMPOK 3  :  DICTIONARY BATAK - ENGLISH
-ANGGOTA     :  Johanna Siagian   -  11322061
-               Monica Silaban    -  11322062
-               Hagai Natasha     -  11322063
+DICTIONARY BATAK - ENGLISH
+Monica Silaban    -  11322062
 */
 
 
